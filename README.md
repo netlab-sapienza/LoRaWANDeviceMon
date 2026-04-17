@@ -50,10 +50,9 @@ LoRaWAN_classification/
 ├── data/                       # not included in the public repository
 ├── outputs/                    # generated figures, tables, intermediate artifacts
 ├── README.md
-└── requirements.txt            # optional / if provided
+└── requirements.txt           
 ```
 
-If the repository uses different filenames, replace the placeholders below with the actual file names.
 
 ### Main components
 
