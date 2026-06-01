@@ -1,6 +1,6 @@
 # LoRaWAN Classification
 
-Code repository for a data-driven framework for **LoRaWAN network diagnostics** in **massive IoT deployments**.
+Code repository for the papers [1] and {2}. A data-driven framework for **LoRaWAN network diagnostics** in **massive IoT deployments**.
 
 The project combines:
 - **protocol-aware feature engineering**
